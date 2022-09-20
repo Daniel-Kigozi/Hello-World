@@ -1,0 +1,5 @@
+# files to be ignored 
+test.md
+
+# Folders to be ignored
+/node_modules
